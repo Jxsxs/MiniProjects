@@ -32,4 +32,4 @@ while True:
 					cont=0
 					time.sleep(180)
 	else:
-		os.system('cls')
+		os.system('cls')        
